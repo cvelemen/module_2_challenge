@@ -24,7 +24,7 @@
  - This section is not a live version of the actual form to be submitted to the creator, but rather and additional info about the creator and how to contact him using email that is provided;
  - If you click on the "Contact Me" button you will be redirected to the main header of the page;
 
- # footer
+ # Footer
  - In the first section starting from the left in the footer area you will see copyright logo along with creators webpage name brand and design that was used to build this website, if you click on underlined HTML it will take you to the Wikipedia page about HTML.
 
  # Left section of the webpage
