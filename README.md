@@ -12,7 +12,6 @@
 
 # First section of the website shows introduction about the creator, who is he and if you click on MS.c that is underlines it leads you to the following link "https://www.bg.ac.rs/en/" which is the college that creator graduated from;
  - It also gives you a small quote "I don't care that they stole my idea, I care that they don't have any of their own" from one of the greatest minds in history Nikola Tesla "https://en.wikipedia.org/wiki/Nikola_Tesla" with whom the creator shares name and ethnicity;
- - If you go further and click on the "Nikola Tesla" button it opens up Wikipedia page about this scientist;
 
 # Further down you will see portfolio with a small quote from a creator itself "in a world of science we often say, you know what that's really good argument, my statement is wrong my apologies";
  - Following down starting from the center is the picture of the creator, to his left you have a picture for AI, to his right picture for Binary code, diagonally down to the left picture of old patent sketches, right under picture of lightbulbs representing Idea and down diagonally on the right a robot using laptop representing a future of mankind;
@@ -21,7 +20,7 @@
   - This section starts with picture representing HTML code followed by a brief description of the creator;
 
 # Contact
- - This section is not a live version of the actual form to be submitted to the creator, but rather and additional info about the creator and how to contact him using email that is provided;
+ - This section is not a live version of the actual form to be submitted to the creator.
  - If you click on the "Contact Me" button you will be redirected to the main header of the page;
 
  # Footer
