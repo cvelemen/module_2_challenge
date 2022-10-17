@@ -36,4 +36,5 @@
  Link to the webapp:
  https://cvelemen.github.io/module_2_challenge/
 
-
+Link to screenshot:
+![screencapture-cvelemen-github-io-module-2-challenge-2022-10-17-18_12_29](https://user-images.githubusercontent.com/113320487/196293794-6a070882-15c8-4c44-aff9-020e65c6e124.png)
